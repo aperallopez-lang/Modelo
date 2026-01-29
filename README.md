@@ -23,8 +23,6 @@ En la tablilla, la ciudad de Babilonia aparece situada en el centro, atravesada 
 <p>
     Esta pieza es especialmente relevante por su valor histórico y documental, ya que muestra cómo las civilizaciones antiguas entendían y organizaban el espacio que les rodeaba, combinando conocimientos geográficos, creencias religiosas y simbolismo cultural.
 
-
-Modelo de malla simplificada realizado por Andrea Peral en Meshlab.
 </p>
   </body>
 </html>
