@@ -3,8 +3,6 @@
 <head>
 <meta http-equiv='X-UA-Compatible' content='chrome=1'></meta>
 <meta http-equiv='Content-Type' content='text/html;charset=utf-8'></meta>
-<title>Modelo The Map of the World tablet</title>
-<script type='text/javascript' src='https://www.x3dom.org/download/x3dom.js'> </script>
 <link rel='stylesheet' type='text/css' href='https://www.x3dom.org/download/x3dom.css'/>
 </head>
 <body>
